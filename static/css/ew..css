@@ -1,0 +1,48 @@
+body{
+    background: url("https://pbs.twimg.com/media/ESkjM2rXQAY6rk3.jpg");
+/*https://images.unsplash.com/photo-1617011302569-ad31a9a5a619?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80*/
+    width: 100%;
+    background-position:center;
+    background-size: cover;
+}
+.navbar-brand{
+    color: white;
+    font-family: sans-serif;
+    font: 500;
+}
+.card{
+    background-color: #c0c6cc46;
+    border-radius: 10px;
+}
+.card-title{
+    color: rgb(231, 231, 231);
+    
+}
+input{
+    border: none;
+    width: 200px;
+    height: 5vh;
+    background-color: rgba(255, 255, 255, 0.151);
+    color: rgb(231, 231, 231);
+    align-items: center;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+}
+.same{
+    border: none;
+    width: 200px;
+    height: 5vh;
+    background-color: rgba(255, 255, 255, 0.151);
+    color: rgb(231, 231, 231);
+    align-items: center;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+}
+.option_col{
+    color: black;
+    background-color: aliceblue;
+}
